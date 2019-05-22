@@ -3,3 +3,4 @@ Some game mods, patches and other :video_game::smirk:
 
 ## ScpToolkit_Ds3Service_ReStarter
 - It restarts (reloads, reboot) ScpToolkit Ds3Service after errors, PC sleep mode and other bugs when ScpToolkit has stopped working
+- __ScpToolkit__ - Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers https://github.com/nefarius/ScpToolkit
